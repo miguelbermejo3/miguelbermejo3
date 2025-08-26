@@ -65,15 +65,6 @@ Actualmente curso un **Máster en Ciberseguridad en entornos de las Tecnologías
 
 ---
 
-## 📊 Stats de GitHub  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelbermejo&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelbermejo&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
 ## 📫 Contacto  
 📧 **miguelbermejo1@gmail.com**  
 🔗 [Portfolio](https://bermejomiguel.com)  
